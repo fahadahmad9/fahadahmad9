@@ -14,11 +14,6 @@ An AI-powered furniture design system that turns hand-drawn sketches into struct
 
 The system combines **YOLOv8, OCR, geometric analysis, LLMs, FastAPI, React, and Three.js** to move from an unstructured sketch to usable design data.
 
-### [AccessRAG](https://github.com/fahadahmad9/AccessRAG)
-An agentic RAG knowledge assistant designed around **retrieval, permissions, and source-backed answers**.
-
-It combines hybrid document search, reranking, SQL access, and role-based access control so that the system can retrieve information while respecting what a user is allowed to see.
-
 ### [AI Resume Analyzer](https://github.com/fahadahmad9/AI-Resume-Analyzer)
 An AI-powered system for turning resumes into structured data and contextual analysis.
 
